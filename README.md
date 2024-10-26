@@ -44,7 +44,7 @@ class StudentAdmin(admin.ModelAdmin):
 
 ## OUTPUt
 Screenshot (1).png
-
+c:\Users\Admin\ORM\Screenshot (2).png
 
 
 ## RESULT
