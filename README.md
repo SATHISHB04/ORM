@@ -43,8 +43,7 @@ class StudentAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUt
-![alt text](<Screenshot (1).png>)
-
+![alt text](<Screenshot (3).png>)
 
 ## [RESULT]
 Thus the program for creating a database using ORM hass been executed successfully
